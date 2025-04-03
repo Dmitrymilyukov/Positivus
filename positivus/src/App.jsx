@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import './App.css'
-import Menu from './Menu/Menu.jsx'
+import Menu from './Header/Header.jsx'
 
 function App() {
 
