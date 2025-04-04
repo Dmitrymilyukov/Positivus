@@ -7,9 +7,9 @@ function App() {
 
   return (
     <>
-      <main className='main'>
+      <header className='content'>
         <Menu />
-      </main>   
+      </header>   
     </>
   )
 }
